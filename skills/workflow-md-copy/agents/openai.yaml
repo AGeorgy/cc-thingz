@@ -1,4 +1,6 @@
 interface:
   display_name: "Workflow MD Copy"
   short_description: "Copy markdown content to clipboard"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
   default_prompt: "Use $workflow-md-copy to format this output as markdown and copy it to clipboard."
