@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thinking Dialectic"
+  short_description: "Evaluate claims with parallel pro/con analysis"
+  default_prompt: "Use $thinking-dialectic to analyze this claim from both sides and synthesize a conclusion."

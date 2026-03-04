@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow MD Copy"
+  short_description: "Copy markdown content to clipboard"
+  default_prompt: "Use $workflow-md-copy to format this output as markdown and copy it to clipboard."

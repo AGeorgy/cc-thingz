@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow TXT Copy"
+  short_description: "Copy plain text content to clipboard"
+  default_prompt: "Use $workflow-txt-copy to copy this text to clipboard."

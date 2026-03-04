@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planning Make"
+  short_description: "Create structured implementation plans"
+  default_prompt: "Use $planning-make to create a detailed implementation plan in docs/plans/."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow Wrong"
+  short_description: "Reset and re-evaluate a failing direction"
+  default_prompt: "Use $workflow-wrong to reset the approach and propose better alternatives."

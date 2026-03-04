@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow Learn"
+  short_description: "Capture durable project learnings"
+  default_prompt: "Use $workflow-learn to extract and save reusable project learnings from this work."

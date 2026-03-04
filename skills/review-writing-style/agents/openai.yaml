@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Writing Style"
+  short_description: "Apply concise engineering writing style"
+  default_prompt: "Use $review-writing-style to rewrite this technical message in a concise style."

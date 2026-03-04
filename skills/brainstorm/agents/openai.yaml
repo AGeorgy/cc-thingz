@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brainstorm"
+  short_description: "Explore solution approaches before implementation"
+  default_prompt: "Use $brainstorm to help me explore 2-3 implementation approaches with trade-offs."

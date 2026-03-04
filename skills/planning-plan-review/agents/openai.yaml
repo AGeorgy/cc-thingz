@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planning Plan Review"
+  short_description: "Review plans for correctness and scope"
+  default_prompt: "Use $planning-plan-review to review my implementation plan before coding."

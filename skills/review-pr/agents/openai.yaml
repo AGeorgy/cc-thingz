@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review PR"
+  short_description: "Review pull requests or issues"
+  default_prompt: "Use $review-pr to review this PR or issue and report findings by severity."

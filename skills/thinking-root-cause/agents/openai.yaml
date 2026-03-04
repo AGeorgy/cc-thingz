@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thinking Root Cause"
+  short_description: "Investigate failures with structured root-cause analysis"
+  default_prompt: "Use $thinking-root-cause to run a 5-why analysis for this issue."

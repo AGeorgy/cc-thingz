@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow Clarify"
+  short_description: "Resolve expectation vs behavior confusion"
+  default_prompt: "Use $workflow-clarify to explain this confusion and determine whether it is a real issue."
