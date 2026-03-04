@@ -1,6 +1,0 @@
-interface:
-  display_name: "Review PR"
-  short_description: "Review pull requests or issues"
-  icon_small: "./assets/icon.png"
-  icon_large: "./assets/icon.png"
-  default_prompt: "Use $review-pr to review this PR or issue and report findings by severity."
