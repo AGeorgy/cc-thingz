@@ -1,6 +1,0 @@
-interface:
-  display_name: "Custome Workflow Wrong"
-  short_description: "Reset and re-evaluate a failing direction"
-  icon_small: "./assets/icon.png"
-  icon_large: "./assets/icon.png"
-  default_prompt: "Use $custome-workflow-wrong to reset the approach and propose better alternatives."
